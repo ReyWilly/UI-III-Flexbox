@@ -98,7 +98,7 @@ time, mark, audio, video {
 }
 .line{
 	border:2px solid black;
-	margin:6% 15%;
+	margin:3% 15%;
 }
 .inno{
 	display: flex;
@@ -149,4 +149,43 @@ button{
 #copy{
 	text-align: center;
 	padding:4.5%;
+}
+.pg2mc{
+	display: flex;
+	margin: 1% 5%;
+}
+.opt{
+	margin: 4% 20%;
+	padding: 0% 5%;
+	background-color: lightgrey;
+	border: 2px solid grey;
+	border-radius: 5px;
+	box-shadow: black 0px 0px 5px;
+}
+.opt h2{
+	margin: 1% 0%;
+	padding: 6% 0%;
+}
+.opt button{
+	margin: 5% 0%;
+}
+.servicesdiv{
+	margin: 1% 15%;
+}
+.serv-img{
+	display: flex;
+	justify-content: center;
+	margin: 1% 0%;
+}
+.foot{
+	margin: 0% 15%;
+	display: flex;
+	justify-content: center;
+}
+.serv-info-img{
+	display: flex;
+	justify-content: center;
+}
+ul{
+	line-height: 150%;
 }
